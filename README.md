@@ -145,7 +145,4 @@ This project provides a clean and complete implementation of a Binary Search Tre
 
 ---
 
-📌 *Future Enhancements:*
-
-* Iterative BST implementation
-* Self-balancing B
+AUTHOR : Vijaya babu
